@@ -62,4 +62,12 @@
             app:backgroundTint="#C9B7EC" />
 
     </LinearLayout>
+
+    <Button
+        android:id="@+id/hint_button"
+        android:layout_width="292dp"
+        android:layout_height="wrap_content"
+        android:text="Podpowiedź"
+        android:textColor="#000000"
+        app:backgroundTint="#C9B7EC" />
 </LinearLayout>
